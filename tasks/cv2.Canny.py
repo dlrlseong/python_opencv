@@ -15,3 +15,7 @@ try:
     #cv2.imwrite('result.jpg', edges)
 except IOError:
 	print ('Error while reading files !!!')
+
+
+
+    ######  edge detection  ######
