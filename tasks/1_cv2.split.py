@@ -1,6 +1,7 @@
 import cv2
 
-image = cv2.imread('/Users/dlrlseong/python/rgb.png')
+image = cv2.imread('rgb.png')
+image = cv2.resize(image, (300, 300))
 B, G, R = cv2.split(image)
 # Corresponding channels are separated
 

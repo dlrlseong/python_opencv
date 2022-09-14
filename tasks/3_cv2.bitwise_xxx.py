@@ -8,8 +8,8 @@ import numpy as np
 
 # path to input images are specified and
 # images are loaded with imread command
-img1 = cv2.imread('/Users/dlrlseong/python/bitwise1.png')
-img2 = cv2.imread('/Users/dlrlseong/python/bitwise2.png')
+img1 = cv2.imread('bitwise1.png')
+img2 = cv2.imread('bitwise2.png')
 
 # cv2.bitwise_and is applied over the
 # image inputs with applied parameters
