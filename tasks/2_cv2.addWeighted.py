@@ -8,8 +8,8 @@ import numpy as np
 
 # path to input images are specified and
 # images are loaded with imread command
-image1 = cv2.imread('imput1.jpeg')
-image2 = cv2.imread('input2.jpeg')
+image1 = cv2.imread('source/imput1.jpeg')
+image2 = cv2.imread('source/input2.jpeg')
 
 # cv2.addWeighted is applied over the
 # image inputs with applied parameters

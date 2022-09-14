@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-FILE_NAME = 'test.jpg'
+FILE_NAME = 'source/test.jpg'
 try:
     # Read image from the disk.
     img = cv2.imread(FILE_NAME)

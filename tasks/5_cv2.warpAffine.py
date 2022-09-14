@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-FILE_NAME = 'test.jpg'
+FILE_NAME = 'source/test.jpg'
 # Create translation matrix.
 # If the shift is (x, y) then matrix would be
 # M = [1 0 x]

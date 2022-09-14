@@ -5,7 +5,7 @@ import cv2
 from matplotlib import pyplot as plt
 
 # reads an input image
-img = cv2.imread('imput1.jpeg',0)
+img = cv2.imread('source/imput1.jpeg',0)
 
 # find frequency of pixels in range 0-255
 histr = cv2.calcHist([img],[0],None,[256],[0,256])

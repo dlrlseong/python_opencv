@@ -7,7 +7,7 @@ import cv2
 import numpy as np
 
 # path
-path = r'/Users/dlrlseong/python/test.jpg'
+path = r'source/test.jpg'
 
 # Reading an image in default mode
 image = cv2.imread(path)
