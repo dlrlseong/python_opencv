@@ -4,7 +4,7 @@ import cv2
 from matplotlib import pyplot as plt
 
 # Reading image from folder where it is stored
-img = cv2.imread('C:\openCV\do_nawab.png')
+img = cv2.imread('source/do_nawab.png')
 
 # denoising of image saving it into dst image
 dst = cv2.fastNlMeansDenoisingColored(img, None, 10, 10, 7, 15)
