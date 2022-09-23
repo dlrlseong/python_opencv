@@ -1,0 +1,178 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2499,
+        "width": 2499
+    },
+    "objects": [
+        {
+            "id": 1013545545,
+            "classId": 10329706,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "tjgus595",
+            "createdAt": "2022-08-30T06:27:28.386Z",
+            "updatedAt": "2022-08-30T06:27:58.710Z",
+            "tags": [],
+            "classTitle": "Pipe2",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        578
+                    ],
+                    [
+                        1570,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1013545549,
+            "classId": 10329706,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "tjgus595",
+            "createdAt": "2022-08-30T06:27:32.732Z",
+            "updatedAt": "2022-08-30T06:27:58.710Z",
+            "tags": [],
+            "classTitle": "Pipe2",
+            "points": {
+                "exterior": [
+                    [
+                        6,
+                        1058
+                    ],
+                    [
+                        2498,
+                        151
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1013545561,
+            "classId": 10329706,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "tjgus595",
+            "createdAt": "2022-08-30T06:27:39.091Z",
+            "updatedAt": "2022-08-30T06:27:58.710Z",
+            "tags": [],
+            "classTitle": "Pipe2",
+            "points": {
+                "exterior": [
+                    [
+                        40,
+                        1897
+                    ],
+                    [
+                        2498,
+                        984
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1013545578,
+            "classId": 10329706,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "tjgus595",
+            "createdAt": "2022-08-30T06:27:46.684Z",
+            "updatedAt": "2022-08-30T06:27:58.710Z",
+            "tags": [],
+            "classTitle": "Pipe2",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        2396
+                    ],
+                    [
+                        389,
+                        2253
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1013545586,
+            "classId": 10329706,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "tjgus595",
+            "createdAt": "2022-08-30T06:27:50.708Z",
+            "updatedAt": "2022-08-30T06:27:58.710Z",
+            "tags": [],
+            "classTitle": "Pipe2",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        1797
+                    ],
+                    [
+                        241,
+                        2498
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1013545600,
+            "classId": 10329706,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "tjgus595",
+            "createdAt": "2022-08-30T06:27:54.605Z",
+            "updatedAt": "2022-08-30T06:27:58.710Z",
+            "tags": [],
+            "classTitle": "Pipe2",
+            "points": {
+                "exterior": [
+                    [
+                        793,
+                        2105
+                    ],
+                    [
+                        2498,
+                        1467
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1013545622,
+            "classId": 10329706,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "tjgus595",
+            "createdAt": "2022-08-30T06:27:58.382Z",
+            "updatedAt": "2022-08-30T06:28:02.592Z",
+            "tags": [],
+            "classTitle": "Pipe2",
+            "points": {
+                "exterior": [
+                    [
+                        2018,
+                        2491
+                    ],
+                    [
+                        2498,
+                        2313
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

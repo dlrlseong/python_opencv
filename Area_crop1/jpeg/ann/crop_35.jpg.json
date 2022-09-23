@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2499,
+        "width": 2499
+    },
+    "objects": [
+        {
+            "id": 1013546675,
+            "classId": 10329706,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "tjgus595",
+            "createdAt": "2022-08-30T06:38:10.289Z",
+            "updatedAt": "2022-08-30T06:38:43.211Z",
+            "tags": [],
+            "classTitle": "Pipe2",
+            "points": {
+                "exterior": [
+                    [
+                        208,
+                        584
+                    ],
+                    [
+                        401,
+                        471
+                    ],
+                    [
+                        514,
+                        427
+                    ],
+                    [
+                        882,
+                        299
+                    ],
+                    [
+                        1021,
+                        234
+                    ],
+                    [
+                        1680,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1013546696,
+            "classId": 10329706,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "tjgus595",
+            "createdAt": "2022-08-30T06:38:27.428Z",
+            "updatedAt": "2022-08-30T06:38:43.211Z",
+            "tags": [],
+            "classTitle": "Pipe2",
+            "points": {
+                "exterior": [
+                    [
+                        363,
+                        928
+                    ],
+                    [
+                        2489,
+                        142
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1013546701,
+            "classId": 10329706,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "tjgus595",
+            "createdAt": "2022-08-30T06:38:32.889Z",
+            "updatedAt": "2022-08-30T06:38:43.211Z",
+            "tags": [],
+            "classTitle": "Pipe2",
+            "points": {
+                "exterior": [
+                    [
+                        529,
+                        1444
+                    ],
+                    [
+                        2489,
+                        717
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1013546709,
+            "classId": 10329706,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "tjgus595",
+            "createdAt": "2022-08-30T06:38:37.618Z",
+            "updatedAt": "2022-08-30T06:38:43.211Z",
+            "tags": [],
+            "classTitle": "Pipe2",
+            "points": {
+                "exterior": [
+                    [
+                        736,
+                        1966
+                    ],
+                    [
+                        2498,
+                        1310
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1013546714,
+            "classId": 10329706,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "tjgus595",
+            "createdAt": "2022-08-30T06:38:42.923Z",
+            "updatedAt": "2022-08-30T06:38:42.923Z",
+            "tags": [],
+            "classTitle": "Pipe2",
+            "points": {
+                "exterior": [
+                    [
+                        1288,
+                        2498
+                    ],
+                    [
+                        2495,
+                        2052
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

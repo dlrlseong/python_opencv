@@ -1,0 +1,74 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2499,
+        "width": 2499
+    },
+    "objects": [
+        {
+            "id": 964073484,
+            "classId": 10240805,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ahlee100",
+            "createdAt": "2022-07-08T02:35:01.905Z",
+            "updatedAt": "2022-08-30T06:39:28.976Z",
+            "tags": [],
+            "classTitle": "Pipe",
+            "points": {
+                "exterior": [
+                    [
+                        2044,
+                        326
+                    ],
+                    [
+                        2384,
+                        538
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1013546771,
+            "classId": 10329706,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "tjgus595",
+            "createdAt": "2022-08-30T06:39:28.699Z",
+            "updatedAt": "2022-08-30T06:39:36.292Z",
+            "tags": [],
+            "classTitle": "Pipe2",
+            "points": {
+                "exterior": [
+                    [
+                        2068,
+                        521
+                    ],
+                    [
+                        2157,
+                        471
+                    ],
+                    [
+                        2225,
+                        424
+                    ],
+                    [
+                        2296,
+                        391
+                    ],
+                    [
+                        2391,
+                        352
+                    ],
+                    [
+                        2495,
+                        308
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

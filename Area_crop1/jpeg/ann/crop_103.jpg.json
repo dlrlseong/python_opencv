@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2499,
+        "width": 2499
+    },
+    "objects": [
+        {
+            "id": 1013548700,
+            "classId": 10329706,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "tjgus595",
+            "createdAt": "2022-08-30T06:57:55.167Z",
+            "updatedAt": "2022-08-30T06:58:16.619Z",
+            "tags": [],
+            "classTitle": "Pipe2",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        207
+                    ],
+                    [
+                        561,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1013548703,
+            "classId": 10329706,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "tjgus595",
+            "createdAt": "2022-08-30T06:58:00.054Z",
+            "updatedAt": "2022-08-30T06:58:16.619Z",
+            "tags": [],
+            "classTitle": "Pipe2",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        723
+                    ],
+                    [
+                        1935,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1013548705,
+            "classId": 10329706,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "tjgus595",
+            "createdAt": "2022-08-30T06:58:02.942Z",
+            "updatedAt": "2022-08-30T06:58:16.619Z",
+            "tags": [],
+            "classTitle": "Pipe2",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        1542
+                    ],
+                    [
+                        2498,
+                        625
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1013548709,
+            "classId": 10329706,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "tjgus595",
+            "createdAt": "2022-08-30T06:58:08.735Z",
+            "updatedAt": "2022-08-30T06:58:16.619Z",
+            "tags": [],
+            "classTitle": "Pipe2",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        2055
+                    ],
+                    [
+                        2498,
+                        1141
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1013548711,
+            "classId": 10329706,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "tjgus595",
+            "createdAt": "2022-08-30T06:58:11.914Z",
+            "updatedAt": "2022-08-30T06:58:16.619Z",
+            "tags": [],
+            "classTitle": "Pipe2",
+            "points": {
+                "exterior": [
+                    [
+                        986,
+                        2498
+                    ],
+                    [
+                        2498,
+                        1942
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1013548714,
+            "classId": 10329706,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "tjgus595",
+            "createdAt": "2022-08-30T06:58:16.216Z",
+            "updatedAt": "2022-08-30T06:58:16.216Z",
+            "tags": [],
+            "classTitle": "Pipe2",
+            "points": {
+                "exterior": [
+                    [
+                        2353,
+                        2498
+                    ],
+                    [
+                        2498,
+                        2458
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

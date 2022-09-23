@@ -1,0 +1,22 @@
+{
+    "classes": [
+        {
+            "title": "Pipe",
+            "shape": "rectangle",
+            "color": "#9C2B4F",
+            "geometry_config": {},
+            "id": 10240805,
+            "hotkey": ""
+        },
+        {
+            "title": "Pipe2",
+            "shape": "line",
+            "color": "#A4328B",
+            "geometry_config": {},
+            "id": 10329706,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "images"
+}
